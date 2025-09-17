@@ -147,5 +147,5 @@ cython_debug/
 # Custom rules
 # -----------------
 
-# Ignore all CSV files
 *.csv
+.DS_Store
